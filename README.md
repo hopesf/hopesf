@@ -58,8 +58,7 @@
 <p>
   <a href="https://www.buymeacoffee.com/selimcoderjs">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="selimcoderjs" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hopesf&show_icons=true&locale=en&layout=compact" alt="hopesf" />
   </a>
 </p>
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hopesf&show_icons=true&locale=en&layout=compact" alt="hopesf" />
-</p>
+
