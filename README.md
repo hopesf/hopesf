@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1 align="center">Hi 👋, I'm Selim Geçin</h1>
+<h1 align="center">Hi 👋, I'm Selim Geçin</h1>
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hopesf&label=Profile%20views&color=0e75b6&style=flat" alt="hopesf" /> </p>
@@ -39,8 +30,8 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; flex-direction: row; align-items: center;">
+<h3 >Languages and Tools:</h3>
+<p  style="display: flex; flex-direction: row; align-items: center;">
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
@@ -79,9 +70,6 @@
   </a>
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hopesf&show_icons=true&locale=en&layout=compact" alt="hopesf" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=hopesf&show_icons=true&locale=en&layout=compact" alt="hopesf" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hopesf&show_icons=true&locale=en" alt="hopesf" /></p>
-
-</body>
-</html>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=hopesf&show_icons=true&locale=en" alt="hopesf" /></p>
