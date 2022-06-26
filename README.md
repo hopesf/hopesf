@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I'm having fun writing code :)**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="display: flex; flex-direction:row">
+<p align="left" style="display: flex; flex-direction:row;">
 <a href="https://codepen.io/hopesf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hopesf" height="30" width="40" /></a>
 <a href="https://twitter.com/selimcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="selimcoder" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/selim-geçin-71450a184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selim-geçin-71450a184" height="30" width="40" /></a>
