@@ -53,12 +53,12 @@
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
-
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hopesf&show_icons=true&locale=en&layout=compact"  width="210" alt="hopesf" />
+</p>
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/selimcoderjs">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="selimcoderjs" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hopesf&show_icons=true&locale=en&layout=compact" alt="hopesf" />
   </a>
 </p>
-
