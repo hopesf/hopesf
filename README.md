@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hopesf" alt="hopesf" /></a> </p>
 
-- 🔭 I’m currently working on [NextJS](https://nextjs.org/)
+- 🔭 I’m currently working on [Arasta Itc.](https://arastaitc.com/)
 
 - 🌱 I’m currently learning **Typescript, React, NodeJS, Unit Tests, Webscraping**
 
