@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Arasta Itc.](https://arastaitc.com/)
 
-- 🌱 I’m currently learning **Typescript, React, NodeJS, Unit Tests, Webscraping**
+- 🌱 I’m currently learning **Typescript, Redux, NodeJS, Unit Tests, Webscraping**
 
 - 👨‍💻 All of my projects are available at [https://hopesf.github.io/](https://hopesf.github.io/)
 
