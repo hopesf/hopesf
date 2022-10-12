@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hopesf.github.io/](https://hopesf.github.io/)
 
-- 💬 Ask me about **NodeJS, Js, Html, Pug, Css, Tailwind**
+- 💬 Ask me about **React, NodeJS, Js, Html, Pug, Css, Tailwind**
 
 - 📫 How to reach me **gecin18@gmail.com**
 
