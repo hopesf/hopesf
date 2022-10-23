@@ -2,8 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hopesf&label=Profile%20views&color=0e75b6&style=flat" alt="hopesf" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hopesf" alt="hopesf" /></a> </p>
+<span><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hopesf" alt="hopesf" /></a> </span>  
 
 - 🔭 I’m currently working on [Arasta Itc.](https://arastaitc.com/)
 
@@ -18,6 +17,9 @@
 - 📄 Know about my experiences [https://hopesf.github.io/](https://hopesf.github.io/)
 
 - ⚡ Fun fact **I'm having fun writing code :)**
+
+<a href="https://app.daily.dev/hopesf"><img src="https://api.daily.dev/devcards/8395e04ba3a34978b481d6d75559c8ca.png?r=yal" width="250" alt="Selim Geçin's Dev Card"/></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; flex-direction:row; align-items:center;">
