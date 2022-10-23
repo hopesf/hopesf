@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I'm having fun writing code :)**
 
-<a href="https://app.daily.dev/hopesf"><img src="https://api.daily.dev/devcards/8395e04ba3a34978b481d6d75559c8ca.png?r=yal" width="250" alt="Selim Geçin's Dev Card"/></a>
+<a href="https://app.daily.dev/hopesf"><img src=https://github.com/hopesf/hopesf/blob/main/devcard.svg width="300" alt="Selim Geçin's Dev Card"/></a>
 
 
 <h3 align="left">Connect with me:</h3>
