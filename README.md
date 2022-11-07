@@ -18,9 +18,6 @@
 
 - ⚡ Fun fact **I'm having fun writing code :)**
 
-<a href="https://app.daily.dev/hopesf"><img src=https://github.com/hopesf/hopesf/blob/main/devcard.svg width="300" alt="Selim Geçin's Dev Card"/></a>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; flex-direction:row; align-items:center;">
 <a href="https://codepen.io/hopesf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hopesf" height="30" width="40" /></a>
