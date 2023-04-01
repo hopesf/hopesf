@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hopesf&label=Profile%20views&color=0e75b6&style=flat" alt="hopesf" /> </p>
 <span><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hopesf" alt="hopesf" /></a> </span>  
 
-- 🔭 I’m currently working on [Arasta Itc.](https://arastaitc.com/)
+- 🔭 I’m currently working on [CZ London.](https://czlondon.com/)
 
-- 🌱 I’m currently learning **Typescript, Redux, NodeJS, Unit Tests, Webscraping**
+- 🌱 I’m currently learning **Typescript, React Native**
 
 - 👨‍💻 All of my projects are available at [https://hopesf.github.io/](https://hopesf.github.io/)
 
-- 💬 Ask me about **React, NodeJS, Js, Html, Pug, Css, Tailwind**
+- 💬 Ask me about **React, NodeJS, Js, Html, Css, Tailwind etc.**
 
 - 📫 How to reach me **gecin18@gmail.com**
 
