@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Selim Geçin</h1>
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hopesf&label=Profile%20views&color=0e75b6&style=flat" alt="hopesf" /> </p>
-<span><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hopesf" alt="hopesf" /></a> </span>  
+<br/><br/>
+<span><p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=hopesf&rank=SECRET,SSS,SS,S,AAA,AA,A&style=flat" alt="hopesf"/> </p></span> 
 
 - 🔭 I’m currently working on [CZ London.](https://czlondon.com/)
 
