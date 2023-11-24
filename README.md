@@ -2,10 +2,11 @@
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
 <br/><br/>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hopesf/hopesf/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hopesf/hopesf/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hopesf/hopesf/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hopesf/hopesf/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hopesf/hopesf/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hopesf/hopesf/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br/>
