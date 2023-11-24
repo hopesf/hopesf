@@ -2,6 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
 <br/><br/>
+![snake gif](https://github.com/hopesf/hopesf/blob/output/github-contribution-grid-snake.gif)
 <span><p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=hopesf&rank=SECRET,SSS,SS,S,AAA,AA,A&style=flat" alt="hopesf"/> </p></span> 
 
 - 🔭 I’m currently working on [CZ London.](https://czlondon.com/)
