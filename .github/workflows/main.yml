@@ -5,7 +5,24 @@ on:
     # Runs at 12am IST
     - cron: '40 22 * * *'
   workflow_dispatch:
-jobs:         
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_UPDATED_DATE: false
+          SHOW_LINES_OF_CODE: true
+          SHOW_PROFILE_VIEWS: false
+          SHOW_PROJECTS: false
+          SHOW_EDITORS: false
+          SYMBOL_VERSION: 2
+          SHOW_LOC_CHART: false
+          LOCALE: 'en'
+          
   generate-gif:
     permissions: 
       contents: write
