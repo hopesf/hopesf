@@ -2,8 +2,14 @@
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
 <br/><br/>
-![snake gif](https://github.com/hopesf/hopesf/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hopesf/hopesf/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hopesf/hopesf/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hopesf/hopesf/output/github-snake.svg" />
+</picture>
+
 <br/>
+
 <span><p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=hopesf&rank=SECRET,SSS,SS,S,AAA,AA,A&style=flat" alt="hopesf"/> </p></span> 
 
 
