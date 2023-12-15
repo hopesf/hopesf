@@ -1,14 +1,14 @@
 ### 🧑🏻‍💻 &nbsp;Summary
 
-&nbsp;&nbsp;&nbsp;Along with developing software on Mac,
+&nbsp;&nbsp;&nbsp;- Along with developing software on Mac,
 
-&nbsp;&nbsp;&nbsp;On the frontend, `JavaScript`, `TypeScript`, `React`, `Node.js`, `Next.js`,
+&nbsp;&nbsp;&nbsp;- On the frontend, `JavaScript`, `TypeScript`, `React`, `Node.js`, `Next.js`,
 
-&nbsp;&nbsp;&nbsp;On the backend side, it specializes in `Node.js`, `REST`, `Express`, `Socket.io`, `MongoDB` technologies.
+&nbsp;&nbsp;&nbsp;- On the backend side, it specializes in `Node.js`, `REST`, `Express`, `Socket.io`, `MongoDB` technologies.
 
-&nbsp;&nbsp;&nbsp;It pays particular attention to `type safety`, `CI/CD`, `OOP`, `E2E`, and `Unit Testing`.
+&nbsp;&nbsp;&nbsp;- It pays particular attention to `type safety`, `CI/CD`, `OOP`, `E2E`, and `Unit Testing`.
 
-&nbsp;&nbsp;&nbsp;A full stack developer who loves learning and teaching.
+&nbsp;&nbsp;&nbsp;- A full stack developer who loves learning and teaching.
 
 <br/>
 
@@ -49,4 +49,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hopesf/hopesf/output/github-contribution-grid-snake.svg">
 </picture>
 
+### ⚙️ &nbsp;GitHub Analytics
+![Selim Geçin's github stats](https://github-readme-stats.vercel.app/api?username=hopesf&count_private=true&theme=radical&show_icons=true&include_all_commits=true)&nbsp; 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hopesf&layout=compact&theme=radical&count_private=true&langs_count=5&exclude_repo=BIL2002-final,MemoryGame-MadeWithUnity&hide=html,python,shell)
+
+
+- 📫 How to reach me ... 
+[![gmail](https://img.shields.io/badge/-gecin18@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gecin18@gmail.com)
