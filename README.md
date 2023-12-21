@@ -3,8 +3,6 @@
 - 👋 Hi, I’m Selim GEÇİN
 - 🌱 I’m currently working as Full-Stack Web Developer.
 - 💻 Along with developing software on Mac,
-- 🖥️ On the frontend, `JavaScript`, `TypeScript`, `React`, `Node.js`, `Next.js`, 
-- 🚪 On the backend side, it specializes in `Node.js`, `REST`, `Express`, `Socket.io`, `MongoDB` technologies.
 - 🚀 It pays particular attention to `type safety`, `CI/CD`, `OOP`, `E2E`, and `Unit Testing`.
 - 🥳 A full stack developer who loves learning and teaching.
 
