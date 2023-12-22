@@ -23,13 +23,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SCSS-141a20?style=flat&logo=SASS)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
-<!-- ![ONNX](https://img.shields.io/badge/-Onnx-141a20?style=flat&logo=onnx)&nbsp; -->
-<!-- ![OpenCV](https://img.shields.io/badge/-OpenCV-141a20?style=flat&logo=opencv)&nbsp; -->
-<!-- [FabricJS](https://img.shields.io/badge/-FabricJS-141a20?style=flat&logo=fabricjs)&nbsp; -->
-<!-- ![Cornerstone](https://img.shields.io/badge/-cornerstone-141a20?style=flat&logo=cornerstone)&nbsp; -->
-<!-- ![OpenSeaDragon](https://img.shields.io/badge/-OpenSeaDragon-141a20?style=flat&logo=openseadragon)&nbsp; -->
-<!-- ![Amcharts](https://img.shields.io/badge/-Amcharts-141a20?style=flat&logo=amcharts)&nbsp; -->
 
+- 📫 How to reach me ... 
+[![gmail](https://img.shields.io/badge/-gecin18@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gecin18@gmail.com)
 
 ### 🐍 &nbsp;My Contributions
 <picture>
@@ -40,9 +36,3 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![Selim Geçin's github stats](https://github-readme-stats.vercel.app/api?username=hopesf&theme=radical)&nbsp;
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hopesf&layout=compact&theme=radical&count_private=true&langs_count=5&exclude_repo=BIL2002-final,MemoryGame-MadeWithUnity&hide=html,python,shell)
-
-
-- 📫 How to reach me ... 
-[![gmail](https://img.shields.io/badge/-gecin18@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gecin18@gmail.com)
