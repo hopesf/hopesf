@@ -5,6 +5,10 @@ I'm a passionate **software developer** based in **Ankara, Turkey**, and I work 
 - 🤔  [What do I think? (**Linkedin**)](https://www.linkedin.com/in/selim-gecin/)
 - 📧  [How to reach me? (**Email**)](mailto:gecin18@gmail.com)
 
+You can contribute to and review my open-source projects, which are pinned below.
+
+While you're here, don't forget to star the projects :)
+
 ### 🐍 &nbsp; Here's my snake :)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hopesf/hopesf/output/github-contribution-grid-snake-dark.svg">
