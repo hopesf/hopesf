@@ -1,15 +1,15 @@
-### `npx selimgecin`
+### `npx screview`
 
-I'm a passionate **software developer** based in **Ankara, Turkey**, and I work as a Full Stack Developer at [Connect ION Technology](https://connect-ion.co/). I started my software career by **hacking websites**. I enjoy being involved in the development of web technologies. I love **open-source** development and I develop projects on my GitHub profile (here). I'm a **JavaScript** and **TypeScript** enthusiast.
+Catch junk AI agents leave in TypeScript and JavaScript.
 
-- 🤔  [What do I think? (**Linkedin**)](https://www.linkedin.com/in/selim-gecin/)
-- 📧  [How to reach me? (**Email**)](mailto:gecin18@gmail.com)
+Selim Geçin. Full Stack Developer in Ankara at [Connect ION Technology](https://connect-ion.co/). JavaScript and TypeScript.
 
-You can contribute to and review my open-source projects, which are pinned below.
+- [LinkedIn](https://www.linkedin.com/in/selim-gecin/)
+- [Email](mailto:gecin18@gmail.com)
 
-While you're here, don't forget to star the projects :)
+Also: `npx selimgecin`
 
-### 🐍 &nbsp; Here's my snake :)
+### Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hopesf/hopesf/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hopesf/hopesf/output/github-contribution-grid-snake.svg">
